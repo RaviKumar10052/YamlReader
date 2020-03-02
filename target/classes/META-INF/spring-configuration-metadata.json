@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.ravi.config.GlobalProperties",
+      "sourceType": "com.ravi.config.GlobalProperties"
+    },
+    {
+      "name": "wordpress",
+      "type": "com.ravi.config.WordpressProperties",
+      "sourceType": "com.ravi.config.WordpressProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
